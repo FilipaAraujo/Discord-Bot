@@ -1,0 +1,22 @@
+C:\Users\Filipa\Documents\Visual Studio\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.deps.json
+C:\Users\Filipa\Documents\Visual Studio\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.runtimeconfig.json
+C:\Users\Filipa\Documents\Visual Studio\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.runtimeconfig.dev.json
+C:\Users\Filipa\Documents\Visual Studio\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.dll
+C:\Users\Filipa\Documents\Visual Studio\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.csprojResolveAssemblyReference.cache
+C:\Users\Filipa\Documents\Visual Studio\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\Filipa\Documents\Visual Studio\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.AssemblyInfoInputs.cache
+C:\Users\Filipa\Documents\Visual Studio\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.AssemblyInfo.cs
+C:\Users\Filipa\Documents\Visual Studio\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.pdb
+C:\Users\Filipa\Documents\Visual Studio\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.dll
+C:\Users\Filipa\Documents\Visual Studio\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.pdb
+C:\Users\pipa_\Documents\DiscordBot-master\DiscordBot-master\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.deps.json
+C:\Users\pipa_\Documents\DiscordBot-master\DiscordBot-master\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.runtimeconfig.json
+C:\Users\pipa_\Documents\DiscordBot-master\DiscordBot-master\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.runtimeconfig.dev.json
+C:\Users\pipa_\Documents\DiscordBot-master\DiscordBot-master\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.dll
+C:\Users\pipa_\Documents\DiscordBot-master\DiscordBot-master\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.pdb
+C:\Users\pipa_\Documents\DiscordBot-master\DiscordBot-master\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.csprojResolveAssemblyReference.cache
+C:\Users\pipa_\Documents\DiscordBot-master\DiscordBot-master\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\pipa_\Documents\DiscordBot-master\DiscordBot-master\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.AssemblyInfoInputs.cache
+C:\Users\pipa_\Documents\DiscordBot-master\DiscordBot-master\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.AssemblyInfo.cs
+C:\Users\pipa_\Documents\DiscordBot-master\DiscordBot-master\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.dll
+C:\Users\pipa_\Documents\DiscordBot-master\DiscordBot-master\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.pdb
